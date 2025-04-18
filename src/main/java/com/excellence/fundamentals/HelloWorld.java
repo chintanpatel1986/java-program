@@ -1,4 +1,4 @@
-package com.excellence;
+package com.excellence.fundamentals;
 
 public class HelloWorld {
     public static void main(String[] args) {

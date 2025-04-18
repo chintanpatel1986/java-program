@@ -1,4 +1,4 @@
-package com.excellence;
+package com.excellence.fundamentals;
 
 public class SimpleJava {
     public static void main(String[] args) {
